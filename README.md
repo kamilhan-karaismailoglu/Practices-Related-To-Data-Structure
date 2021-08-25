@@ -1,0 +1,2 @@
+# Practices-Related-To-Data-Structure
+The program first saves the values received from the user in the queue structure, then adds the values in this queue structure larger than the average of the queue to the linked list created in accordance with the stack structure and copies this linked list into an array. Finally, it writes the created array to the screen. Made with C. This program was written for the Data Structures lecture.
